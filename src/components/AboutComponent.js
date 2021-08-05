@@ -20,7 +20,6 @@ function RenderPartner({ partner }) {
     return <div />;
 }
 
-
 function About(props) {
 
     const partners = props.partners.map(partner => {
